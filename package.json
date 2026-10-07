@@ -11,6 +11,8 @@
     "format:check": "prettier --check ."
   },
   "devDependencies": {
+    "eslint": "^8.0.0",
+    "prettier": "^3.0.0",
     "vite": "^8.3.2"
   }
 }
